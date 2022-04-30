@@ -1,3 +1,2 @@
 registration
-fixed a bug
 added new feature
